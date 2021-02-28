@@ -1,0 +1,7 @@
+{
+  "name": "my-didact",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cabljac/my-didact.git",
+  "license": "MIT"
+}
